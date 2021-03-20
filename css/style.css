@@ -184,11 +184,11 @@
       flex: 2;
   }
   .iteml_descount:nth-child(2){
-   background-image: url(/images/cms-banner-1.jpg);
+   background-image: url(images/cms-banner-1.jpg);
    background-size: cover;
 }
 .iteml_descount:nth-child(3){
-    background-image: url(/images/cms-banner-2.jpg);
+    background-image: url(images/cms-banner-2.jpg);
     background-size: cover;
  }
  .iteml_descount:nth-child(1){
@@ -488,9 +488,7 @@ footer{
     margin: -16px 0 0 -52px;
     font-size: 13px;
 }
-.content_footer p+img{
 
-}
 footer h3{
     margin: 73px 0 25px 0;
     font-size: 16px;
